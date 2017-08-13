@@ -1,0 +1,2 @@
+# ResNextForCervical
+通过ResNesxt对宫颈癌进行预测
